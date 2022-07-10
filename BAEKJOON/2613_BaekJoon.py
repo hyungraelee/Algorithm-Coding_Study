@@ -1,7 +1,4 @@
 def main():
-    global ans
-    global group
-
     N, M = map(int, input().split())
     nums = list(map(int, input().split()))
 
